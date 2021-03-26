@@ -1,0 +1,30 @@
+body{
+    background-color: hotpink;
+}
+
+#pizza{
+    width: 30%;
+    height: 30px;
+    background-color: rgb(189, 157, 212);
+    color: lavender;
+    border: solid 3px rgb(255, 255, 255);
+    margin: 20px;
+}
+
+#imie{
+    width: 30%;
+    height: 30px;
+    background-color: rgb(189, 157, 212);
+    color: lavender;
+    border: solid 3px rgb(255, 255, 255);
+    margin: 20px;
+}
+
+#btn{
+    width: 30%;
+    height: 35px;
+    background-color: rgb(189, 157, 212);
+    color: lavender;
+    border: solid 3px rgb(255, 255, 255);
+    margin: 20px;
+}
